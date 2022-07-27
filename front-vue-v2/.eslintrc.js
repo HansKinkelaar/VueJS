@@ -11,6 +11,9 @@ module.exports = {
     parser: '@babel/eslint-parser',
   },
   rules: {
+    'import/no-relative-packages': 'off',
+    'brace-style': 'off',
+    'no-unused-vars': 'off',
     'import/extensions': 'off',
     'import/no-unresolved': 'off',
     'linebreak-style': 'off',
