@@ -20,8 +20,18 @@
     </nav>
     <!--FIM NAVBAR-->
 
-    <div class="container mt-5">
+    <div class="container">
       <router-view></router-view>
     </div>
   </div>
 </template>
+
+<style>
+
+.container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  }
+
+</style>
