@@ -10,7 +10,7 @@
               <router-link class="nav-link" to="/">Create New Employee</router-link>
             </li>
             <li class="nav-item">
-              <router-link class="nav-link" to="/list-employees">List All Employees</router-link>
+              <router-link class="nav-link" to="/list-employee">List All Employees</router-link>
             </li>
           </ul>
           <a class="navbar-brand order-md-last">CRUD Vue.js + PostgreSQL + Node.js + Azure</a>
@@ -29,7 +29,7 @@
 <style>
 
 .container {
-  margin-top: 20px;
+  margin-top: 50px;
   display: flex;
   justify-content: center;
   }
