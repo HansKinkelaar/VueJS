@@ -12,4 +12,3 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 library.add(faUserPlus, faTrash, faUserEdit);
 
 Vue.component('font-awesome-icon', FontAwesomeIcon);
-
