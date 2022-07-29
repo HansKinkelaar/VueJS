@@ -11,6 +11,8 @@ module.exports = {
     parser: '@babel/eslint-parser',
   },
   rules: {
+    'max-len': 'off',
+    'no-useless-return': 'off',
     'vuejs-accessibility/label-has-for': 'off',
     'import/no-relative-packages': 'off',
     'brace-style': 'off',
