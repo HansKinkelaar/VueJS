@@ -103,7 +103,9 @@
           </div>
             <!-- FIM BLOCO: Employee Registration -->
           <div class="mb-2">
-            <button class="btn btn-primary" type="submit">+ Employee</button>
+            <button class="btn btn-primary">
+              <font-awesome-icon :icon="['fas', 'user-plus']"/> Employee 
+            </button>
           </div>
 
         </form>
