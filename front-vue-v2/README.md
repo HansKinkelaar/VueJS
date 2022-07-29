@@ -1,24 +1,13 @@
-# front-vue-v2
+# Para rodar o front-end da aplicação basta rodar os seguintes comandos
 
-## Project setup
+## 1 - Passo
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2 - Passo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
