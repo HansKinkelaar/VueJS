@@ -1,4 +1,4 @@
-# Para rodar o front-end da aplicação basta rodar os seguintes comandos
+# Para rodar o front-end da aplicação basta rodar os seguintes comandos.
 
 ## 1 - Passo
 ```
@@ -9,5 +9,4 @@ npm install
 ```
 npm run serve
 ```
-
-
+#### Seja Feliz
