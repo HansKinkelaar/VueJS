@@ -9,4 +9,4 @@ npm install
 ```
 npm run serve
 ```
-#### Seja Feliz
+### Seja Feliz.
