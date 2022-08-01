@@ -1,7 +1,7 @@
 /**
  *  file: src/services/Api.js
  *  data: 01/08/2022
- *  description: arquive how incialize 'axios' and the requests from HTTP's
+ *  description: file what inicialize 'axios' and the requests from HTTP's
  */
 
 import axios from "axios";
