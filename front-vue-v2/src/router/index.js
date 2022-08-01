@@ -7,17 +7,17 @@ Vue.use(VueRouter);
 const routes = [
   {
     path: '/',
-    name: 'Create New Employee',
+    name: 'home',
     component: () => import('../components/pages/create-employee/CreateEmployeeComponent.vue'),
   },
   {
     path: '/list-employee',
-    name: 'List Employees',
+    name: 'list-employees',
     component: () => import('../components/pages/list-employee/ListEmployeeComponent.vue'),
   },
   {
     path: '/edit-employee/:id',
-    name: 'Update Employee',
+    name: 'update-employees',
     component: () => import('../components/pages/edit-employee/EditEmployeeComponent.vue'),
   },
 ];
